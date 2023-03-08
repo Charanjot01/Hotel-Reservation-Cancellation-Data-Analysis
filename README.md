@@ -1,1 +1,5 @@
-# Python-Projects
+# Hotel Reservation Cancellation Data Analysis
+## About the project
+In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each hotel is now dealing with a number of issues as a result, including fewer revenues and less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels’ primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem. The analysis of hotel booking cancellations as well as other factors that have no bearing on their business and yearly revenue generation are the main topics of this report.
+## About the dataset
+The dataset contains booking information for a City Hotel and a Resort Hotel from July 1,2015 to august 31,2017. There are 31 variables that include information such as when the booking was made, whether booking cancelled or not, length of stay, ADR of hotel etc. These variables describe 40,060 observations for the resort and 79,330 observations for the city hotel. This dataset is taken from Kaggle [Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
